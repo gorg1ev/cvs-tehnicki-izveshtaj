@@ -45,7 +45,7 @@ export const defaultValues: VehicleReportFormInputs = {
   side_glasses: "",
   back_glasses: "",
   hook: "Нема кука",
-  hook_type: "AX50",
+  hook_type: "A-50X",
   hook_approval: "",
   responsible_person: "",
 };
